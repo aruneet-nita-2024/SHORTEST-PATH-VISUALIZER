@@ -1,3 +1,3 @@
 ### `Live Link`
 
-https://aruneet-21.github.io/SHORTEST-PATH-VISUALIZER/
+https://aruneet-0894.github.io/SHORTEST-PATH-VISUALIZER/
